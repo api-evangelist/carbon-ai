@@ -1,0 +1,22 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/carbon-ai/integrations
+- https://zapier.com/apps/carbon/integrations
+- https://zapier.com/apps/polymer/integrations
+- https://n8n.io/integrations/carbon-ai/
+- https://n8n.io/integrations/carbon/
+- https://composio.dev/toolkits/carbon-ai
+- https://monid.ai/tools/carbon-ai
+checked:
+- https://composio.dev/toolkits/carbon-ai
+- https://monid.ai/tools/carbon-ai
+- https://n8n.io/integrations/carbon-ai/
+- https://n8n.io/integrations/carbon/
+- https://zapier.com/apps/carbon-ai/integrations
+- https://zapier.com/apps/carbon/integrations
+- https://zapier.com/apps/polymer/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
